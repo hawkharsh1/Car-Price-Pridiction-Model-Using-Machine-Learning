@@ -12,9 +12,7 @@ This project utilizes machine learning techniques to predict the prices of used 
 - [Features](#features)
 - [Modeling Approach](#modeling-approach)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
+- [Used Libraries and Language](#Used-Libraries-and-Language)
 
 ---
 
