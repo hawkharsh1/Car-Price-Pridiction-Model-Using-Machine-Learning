@@ -66,3 +66,21 @@ The goal of this project is to develop a predictive model that estimates the sel
 5. **Model Evaluation**: Assess the model's performance on the test set using appropriate metrics.
 
 ---
+
+## 🛠️ Used Libraries and Language
+
+- **Language**: Python  
+- **Libraries**:
+  - `numpy`: For numerical operations and handling arrays.
+  - `pandas`: For data manipulation and analysis.
+  - `matplotlib`: For basic plotting and visualization.
+  - `seaborn`: For advanced statistical data visualization.
+  - `scikit-learn`: For implementing machine learning algorithms including Random Forest, data preprocessing, and model evaluation.
+ 
+  -----
+  
+**Algorithm**:  
+  - **Random Forest Regression**: An ensemble learning method that constructs multiple decision trees during training and outputs the average prediction of the individual trees. It helps in reducing overfitting and improves prediction accuracy for regression tasks like car price estimation.
+Each library plays a vital role in building the Car Price Prediction model by enabling efficient data processing, visualization, and predictive modeling.
+
+---
